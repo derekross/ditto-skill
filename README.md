@@ -45,3 +45,7 @@ nak event \
 - [Ditto Philosophy](https://about.ditto.pub/philosophy)
 - [Shakespeare Plugins Documentation](https://soapbox.pub/shakespeare/)
 - [NIP-34: Git Repository Announcements](https://github.com/nostr-protocol/nips/blob/master/34.md)
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 or later — see the [LICENSE](LICENSE) file for details.
